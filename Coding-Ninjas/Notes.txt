@@ -1,0 +1,13 @@
+Constraints => 
+
+1. Time Limit -> 1s, 2s, 3s and 4s sometimes rarely 100s.
+2. Memory Limit -> mostly 256mb
+ 
+3. Input Range (**imp)  
+
+## analysis of input Range
+
+1. maximum operations in 1sec is 10^8.
+2. if range is 10^8 think of order n i,e O(n) solution
+3. if higher thank 10^8 think of O(log n) or constant O(1) solutions
+4. if 10^7 O(n log n).
